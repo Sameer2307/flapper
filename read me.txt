@@ -1,0 +1,2 @@
+this is an mobile android app 
+which is similar to flappy bird game
